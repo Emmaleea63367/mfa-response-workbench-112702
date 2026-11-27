@@ -1,0 +1,4 @@
+{"seq":10,"operation":"resp-n","account":"dept-n:23","target":["query","a-9"],"action":"isolate","status":"queued","cause":"ticket-7"}
+{"seq":19,"operation":"resp-n","account":"dept-n:23","target":["query","a-9"],"action":"isolate","status":"applied","cause":"ticket-7"}
+{"seq":20,"operation":"resp-m","account":"dept-n:23","target":["query","a-9"],"action":"isolate","status":"applied","cause":"independent-admin"}
+{"seq":21,"operation":"resp-n","account":"dept-n:23","target":["query","a-9"],"action":"release","status":"partially_observed","cause":"ticket-9"}

@@ -1,0 +1,7 @@
+{"seq":1,"source":"query","attempt":"a-9","account":"dept-n:23","factor":"push-old","device":"phone-m","state":"waiting","observed_at":1}
+{"seq":2,"source":"reply","attempt":"a-9","account":"dept-s:23","factor":"key-s","device":"key-n","state":"completed","observed_at":2}
+{"seq":3,"source":"query","attempt":"a-9","account":"dept-n:23","factor":"push-old","device":"phone-m","state":"waiting","observed_at":1}
+{"seq":5,"source":"query","attempt":"a-9","account":"dept-n:23","factor":"push-old","device":"phone-m","state":"completed","observed_at":4}
+{"seq":6,"source":"query","attempt":"a-10","account":"dept-n:23","factor":"hardware-k","device":"key-m","state":"completed","observed_at":5}
+{"seq":15,"source":"reply","attempt":"a-42","account":"dept-n:23","factor":"push-new","device":"phone-m","state":"completed","observed_at":13}
+{"seq":16,"source":"reply","attempt":"a-43","account":"dept-n:23","factor":"push-new","device":null,"state":"incomplete","observed_at":14}

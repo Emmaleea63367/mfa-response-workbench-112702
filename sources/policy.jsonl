@@ -1,0 +1,3 @@
+{"seq":9,"revision":1,"applies":"dept-n","horizon":20,"basis":["auth-event","verified-report"],"retained":["hardware-k"]}
+{"seq":13,"revision":2,"applies":"dept-n","horizon":12,"basis":["auth-event","verified-report","enrollment"],"retained":["hardware-k"]}
+{"seq":17,"revision":1,"applies":"dept-s","horizon":20,"basis":["auth-event","verified-report"],"retained":["key-s"]}

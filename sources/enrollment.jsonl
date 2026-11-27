@@ -1,0 +1,4 @@
+{"seq":7,"order":"en-1","account":"dept-n:23","credential":"push-old","display":"phone-m","device_identity":"device-24","status":"enrolled","effective":0}
+{"seq":8,"order":"en-2","account":"dept-n:23","credential":"push-new","display":"phone-m","device_identity":"device-89","status":"scheduled","effective":9}
+{"seq":12,"order":"en-2","account":"dept-n:23","credential":"push-new","display":"phone-m","device_identity":"device-89","status":"enrolled","effective":12}
+{"seq":14,"order":"en-1","account":"dept-n:23","credential":"push-old","display":"phone-m","device_identity":"device-24","status":"retired","effective":13}
